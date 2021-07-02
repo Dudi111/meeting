@@ -1,0 +1,2 @@
+rootProject.name = "SchduleMeeting"
+include ':app'
